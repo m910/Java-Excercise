@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d3f846a9-f553-40bf-a9cf-39d51cc67338" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Main/Java/com/stackroute/pe1/JavaDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main/Java/com/stackroute/CharacterType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Java/com/stackroute/pe1/CharacterType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main/Java/com/stackroute/EvenOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Java/com/stackroute/pe1/EvenOdd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main/Java/com/stackroute/Excercise.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main/Java/com/stackroute/Iteration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Java/com/stackroute/pe1/Iteration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main/Java/com/stackroute/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Java/com/stackroute/pe1/ReverseString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main/Java/com/stackroute/VowelConsonent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Java/com/stackroute/pe1/VowelConsonent.java" afterDir="false" />
-    </list>
+    <list default="true" id="d3f846a9-f553-40bf-a9cf-39d51cc67338" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,20 +14,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Main/Java/com/stackroute/pe1/SortingTheNumber.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main/Java/com/stackroute/pe1/IntegerArgument.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="38" column="12" lean-forward="true" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
+            <state relative-caret-position="60">
+              <caret line="4" column="29" lean-forward="true" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Test/Java/com/stackroute/pe1/SortingTheNumberTest.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Test/Java/com/stackroute/pe1/IntegerArgumentTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="28" column="69" selection-start-line="28" selection-start-column="69" selection-end-line="28" selection-end-column="69" />
+            <state relative-caret-position="175">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+              <folding>
+                <element signature="e#941#942#0" expanded="true" />
+                <element signature="e#971#972#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -87,6 +82,8 @@
         <option value="$PROJECT_DIR$/src/Test/Java/com/stackroute/pe1/StringRepeatTest.java" />
         <option value="$PROJECT_DIR$/src/Test/Java/com/stackroute/pe1/SortingTheNumberTest.java" />
         <option value="$PROJECT_DIR$/src/Main/Java/com/stackroute/pe1/SortingTheNumber.java" />
+        <option value="$PROJECT_DIR$/src/Main/Java/com/stackroute/pe1/IntegerArgument.java" />
+        <option value="$PROJECT_DIR$/src/Test/Java/com/stackroute/pe1/IntegerArgumentTest.java" />
       </list>
     </option>
   </component>
@@ -214,7 +211,71 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SortingTheNumberTest.givenTheInputIsSortedInNonIncreasingOrder">
+  <component name="RunManager" selected="JUnit.IntegerArgumentTest.nullInput">
+    <configuration name="IntegerArgumentTest.givenArrayGivesNotEqualOutput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.pe1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.pe1" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.IntegerArgumentTest" />
+      <option name="METHOD_NAME" value="givenArrayGivesNotEqualOutput" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntegerArgumentTest.givenArrayGivesOutput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.pe1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.pe1" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.IntegerArgumentTest" />
+      <option name="METHOD_NAME" value="givenArrayGivesOutput" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntegerArgumentTest.givenArrayGivesSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.pe1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.pe1" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.IntegerArgumentTest" />
+      <option name="METHOD_NAME" value="givenArrayGivesSum" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntegerArgumentTest.nullInput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.pe1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.pe1" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.IntegerArgumentTest" />
+      <option name="METHOD_NAME" value="nullInput" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SortingTheNumberTest.givenTheInputIsSortedInNonIncreasingOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="HelloWorld" />
       <extension name="coverage">
@@ -231,77 +292,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringRepeatTest.givenStringIsNotEqual" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="HelloWorld" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stackroute.pe1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.stackroute.pe1" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.StringRepeatTest" />
-      <option name="METHOD_NAME" value="givenStringIsNotEqual" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringRepeatTest.givenStringRepeatsAsPerTheInput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="HelloWorld" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stackroute.pe1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.stackroute.pe1" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.StringRepeatTest" />
-      <option name="METHOD_NAME" value="givenStringRepeatsAsPerTheInput" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringRepeatTest.givenStringRepeatsItself" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="HelloWorld" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stackroute.pe1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.stackroute.pe1" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.StringRepeatTest" />
-      <option name="METHOD_NAME" value="givenStringRepeatsItself" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringRepeatTest.nullInput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="HelloWorld" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stackroute.pe1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.stackroute.pe1" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.StringRepeatTest" />
-      <option name="METHOD_NAME" value="nullInput" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.IntegerArgumentTest.nullInput" />
+        <item itemvalue="JUnit.IntegerArgumentTest.givenArrayGivesNotEqualOutput" />
+        <item itemvalue="JUnit.IntegerArgumentTest.givenArrayGivesOutput" />
+        <item itemvalue="JUnit.IntegerArgumentTest.givenArrayGivesSum" />
         <item itemvalue="JUnit.SortingTheNumberTest.givenTheInputIsSortedInNonIncreasingOrder" />
-        <item itemvalue="JUnit.StringRepeatTest.nullInput" />
-        <item itemvalue="JUnit.StringRepeatTest.givenStringIsNotEqual" />
-        <item itemvalue="JUnit.StringRepeatTest.givenStringRepeatsAsPerTheInput" />
-        <item itemvalue="JUnit.StringRepeatTest.givenStringRepeatsItself" />
       </list>
     </recent_temporary>
   </component>
@@ -319,21 +316,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="StringRepeatTest_givenStringRepeatsItself - 2019.07.21 at 12h 45m 44s.xml">
-      <configuration name="StringRepeatTest.givenStringRepeatsItself" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StringRepeatTest_givenStringRepeatsItself - 2019.07.21 at 12h 47m 08s.xml">
-      <configuration name="StringRepeatTest.givenStringRepeatsItself" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StringRepeatTest_givenStringRepeatsItself - 2019.07.21 at 12h 48m 00s.xml">
-      <configuration name="StringRepeatTest.givenStringRepeatsItself" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StringRepeatTest_givenStringRepeatsAsPerTheInput - 2019.07.21 at 12h 51m 49s.xml">
-      <configuration name="StringRepeatTest.givenStringRepeatsAsPerTheInput" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StringRepeatTest_givenStringIsNotEqual - 2019.07.21 at 12h 53m 27s.xml">
-      <configuration name="StringRepeatTest.givenStringIsNotEqual" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="StringRepeatTest_nullInput - 2019.07.21 at 12h 55m 07s.xml">
       <configuration name="StringRepeatTest.nullInput" configurationId="JUnit" />
     </history-entry>
@@ -348,6 +330,21 @@
     </history-entry>
     <history-entry file="SortingTheNumberTest_givenTheInputIsSortedInNonIncreasingOrder - 2019.07.21 at 13h 00m 02s.xml">
       <configuration name="SortingTheNumberTest.givenTheInputIsSortedInNonIncreasingOrder" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortingTheNumberTest_givenTheInputIsSortedInNonIncreasingOrder - 2019.07.21 at 13h 02m 54s.xml">
+      <configuration name="SortingTheNumberTest.givenTheInputIsSortedInNonIncreasingOrder" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IntegerArgumentTest_givenArrayGivesSum - 2019.07.21 at 13h 20m 03s.xml">
+      <configuration name="IntegerArgumentTest.givenArrayGivesSum" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IntegerArgumentTest_givenArrayGivesOutput - 2019.07.21 at 13h 21m 58s.xml">
+      <configuration name="IntegerArgumentTest.givenArrayGivesOutput" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IntegerArgumentTest_givenArrayGivesNotEqualOutput - 2019.07.21 at 13h 22m 52s.xml">
+      <configuration name="IntegerArgumentTest.givenArrayGivesNotEqualOutput" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IntegerArgumentTest_nullInput - 2019.07.21 at 13h 23m 58s.xml">
+      <configuration name="IntegerArgumentTest.nullInput" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -578,17 +575,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test/Java/com/stackroute/pe1/SortingTheNumberTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="28" column="69" selection-start-line="28" selection-start-column="69" selection-end-line="28" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main/Java/com/stackroute/pe1/SortingTheNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
           <caret line="38" column="12" lean-forward="true" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/Java/com/stackroute/pe1/SortingTheNumberTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="28" column="69" selection-start-line="28" selection-start-column="69" selection-end-line="28" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main/Java/com/stackroute/pe1/IntegerArgument.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="29" lean-forward="true" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/Java/com/stackroute/pe1/IntegerArgumentTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#941#942#0" expanded="true" />
+            <element signature="e#971#972#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
