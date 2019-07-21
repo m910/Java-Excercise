@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3f846a9-f553-40bf-a9cf-39d51cc67338" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Main/Java/com/stackroute/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Java/com/stackroute/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main/Java/com/stackroute/pe1/JavaDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/Java/com/stackroute/CharacterType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Java/com/stackroute/pe1/CharacterType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/Java/com/stackroute/EvenOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Java/com/stackroute/pe1/EvenOdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/Java/com/stackroute/Excercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/Java/com/stackroute/Iteration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Java/com/stackroute/pe1/Iteration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/Java/com/stackroute/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Java/com/stackroute/pe1/ReverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/Java/com/stackroute/VowelConsonent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Java/com/stackroute/pe1/VowelConsonent.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,65 +23,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main/Java/com/stackroute/Excercise.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main/Java/com/stackroute/EvenOdd.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main/Java/com/stackroute/VowelConsonent.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main/Java/com/stackroute/CharacterType.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="53" lean-forward="true" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Main/Java/com/stackroute/ReverseString.java">
+        <entry file="file://$PROJECT_DIR$/src/Main/Java/com/stackroute/pe1/SortingTheNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+            <state relative-caret-position="475">
+              <caret line="38" column="12" lean-forward="true" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main/Java/com/stackroute/Iteration.java">
+        <entry file="file://$PROJECT_DIR$/src/Test/Java/com/stackroute/pe1/SortingTheNumberTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            <state relative-caret-position="230">
+              <caret line="28" column="69" selection-start-line="28" selection-start-column="69" selection-end-line="28" selection-end-column="69" />
             </state>
           </provider>
         </entry>
@@ -85,6 +47,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -102,6 +65,28 @@
         <option value="$PROJECT_DIR$/src/Main/Java/com/stackroute/IntegerArgument.java" />
         <option value="$PROJECT_DIR$/src/Main/Java/com/stackroute/CharacterType.java" />
         <option value="$PROJECT_DIR$/src/Main/Java/com/stackroute/ReverseString.java" />
+        <option value="$PROJECT_DIR$/src/Main/Java/com/stackroute/JavaDemo.java" />
+        <option value="$PROJECT_DIR$/src/Main/Java/com/stackroute/PE1/JavaDemo.java" />
+        <option value="$PROJECT_DIR$/src/Main/Java/com/stackroute/pe1/JavaDemo.java" />
+        <option value="$PROJECT_DIR$/src/Test/Java/com/stackroute/pe1/JavaDemoTest.java" />
+        <option value="$PROJECT_DIR$/src/Main/Java/com/stackroute/pe1/CharacterType.java" />
+        <option value="$PROJECT_DIR$/src/Test/Java/com/stackroute/pe1/CharacterTypeTest.java" />
+        <option value="$PROJECT_DIR$/src/Main/Java/com/stackroute/pe1/ReverseString.java" />
+        <option value="$PROJECT_DIR$/src/Test/Java/com/stackroute/pe1/ReverseStringTest.java" />
+        <option value="$PROJECT_DIR$/src/Main/Java/com/stackroute/pe1/EvenOdd.java" />
+        <option value="$PROJECT_DIR$/src/Test/Java/com/stackroute/pe1/EvenOddTest.java" />
+        <option value="$PROJECT_DIR$/src/Main/Java/com/stackroute/pe1/VowelConsonent.java" />
+        <option value="$PROJECT_DIR$/src/Test/Java/com/stackroute/pe1/VowelConsonentTest.java" />
+        <option value="$PROJECT_DIR$/src/Main/Java/com/stackroute/pe1/GuessingTheNumber.java" />
+        <option value="$PROJECT_DIR$/src/Test/Java/com/stackroute/pe1/GuessingTheNumberTest.java" />
+        <option value="$PROJECT_DIR$/src/Main/Java/com/stackroute/pe1/Palindrome.java" />
+        <option value="$PROJECT_DIR$/src/Test/Java/com/stackroute/pe1/PalindromeTest.java" />
+        <option value="$PROJECT_DIR$/src/Test/Java/com/stackroute/pe1/PatternTest.java" />
+        <option value="$PROJECT_DIR$/src/Main/Java/com/stackroute/pe1/Pattern.java" />
+        <option value="$PROJECT_DIR$/src/Main/Java/com/stackroute/pe1/StringRepeat.java" />
+        <option value="$PROJECT_DIR$/src/Test/Java/com/stackroute/pe1/StringRepeatTest.java" />
+        <option value="$PROJECT_DIR$/src/Test/Java/com/stackroute/pe1/SortingTheNumberTest.java" />
+        <option value="$PROJECT_DIR$/src/Main/Java/com/stackroute/pe1/SortingTheNumber.java" />
       </list>
     </option>
   </component>
@@ -117,6 +102,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -148,7 +134,32 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Main" type="462c0819:PsiDirectoryNode" />
               <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="stackroute" type="462c0819:PsiDirectoryNode" />
+              <item name="pe1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HelloWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HelloWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HelloWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="pe1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HelloWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -170,11 +181,26 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/hamcrest-all-1.3.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.stackroute.pe1" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -188,79 +214,94 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReverseString">
-    <configuration name="CharacterType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.CharacterType" />
+  <component name="RunManager" selected="JUnit.SortingTheNumberTest.givenTheInputIsSortedInNonIncreasingOrder">
+    <configuration name="SortingTheNumberTest.givenTheInputIsSortedInNonIncreasingOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.stackroute.*" />
+          <option name="PATTERN" value="com.stackroute.pe1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.pe1" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.SortingTheNumberTest" />
+      <option name="METHOD_NAME" value="givenTheInputIsSortedInNonIncreasingOrder" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EvenOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.EvenOdd" />
+    <configuration name="StringRepeatTest.givenStringIsNotEqual" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.stackroute.*" />
+          <option name="PATTERN" value="com.stackroute.pe1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.pe1" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.StringRepeatTest" />
+      <option name="METHOD_NAME" value="givenStringIsNotEqual" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Iteration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.Iteration" />
+    <configuration name="StringRepeatTest.givenStringRepeatsAsPerTheInput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.stackroute.*" />
+          <option name="PATTERN" value="com.stackroute.pe1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.pe1" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.StringRepeatTest" />
+      <option name="METHOD_NAME" value="givenStringRepeatsAsPerTheInput" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.ReverseString" />
+    <configuration name="StringRepeatTest.givenStringRepeatsItself" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.stackroute.*" />
+          <option name="PATTERN" value="com.stackroute.pe1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.pe1" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.StringRepeatTest" />
+      <option name="METHOD_NAME" value="givenStringRepeatsItself" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VowelConsonent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.VowelConsonent" />
+    <configuration name="StringRepeatTest.nullInput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.stackroute.*" />
+          <option name="PATTERN" value="com.stackroute.pe1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.pe1" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.StringRepeatTest" />
+      <option name="METHOD_NAME" value="nullInput" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReverseString" />
-        <item itemvalue="Application.CharacterType" />
-        <item itemvalue="Application.VowelConsonent" />
-        <item itemvalue="Application.Iteration" />
-        <item itemvalue="Application.EvenOdd" />
+        <item itemvalue="JUnit.SortingTheNumberTest.givenTheInputIsSortedInNonIncreasingOrder" />
+        <item itemvalue="JUnit.StringRepeatTest.nullInput" />
+        <item itemvalue="JUnit.StringRepeatTest.givenStringIsNotEqual" />
+        <item itemvalue="JUnit.StringRepeatTest.givenStringRepeatsAsPerTheInput" />
+        <item itemvalue="JUnit.StringRepeatTest.givenStringRepeatsItself" />
       </list>
     </recent_temporary>
   </component>
@@ -277,21 +318,52 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="StringRepeatTest_givenStringRepeatsItself - 2019.07.21 at 12h 45m 44s.xml">
+      <configuration name="StringRepeatTest.givenStringRepeatsItself" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringRepeatTest_givenStringRepeatsItself - 2019.07.21 at 12h 47m 08s.xml">
+      <configuration name="StringRepeatTest.givenStringRepeatsItself" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringRepeatTest_givenStringRepeatsItself - 2019.07.21 at 12h 48m 00s.xml">
+      <configuration name="StringRepeatTest.givenStringRepeatsItself" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringRepeatTest_givenStringRepeatsAsPerTheInput - 2019.07.21 at 12h 51m 49s.xml">
+      <configuration name="StringRepeatTest.givenStringRepeatsAsPerTheInput" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringRepeatTest_givenStringIsNotEqual - 2019.07.21 at 12h 53m 27s.xml">
+      <configuration name="StringRepeatTest.givenStringIsNotEqual" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringRepeatTest_nullInput - 2019.07.21 at 12h 55m 07s.xml">
+      <configuration name="StringRepeatTest.nullInput" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringRepeatTest_nullInput - 2019.07.21 at 12h 55m 25s.xml">
+      <configuration name="StringRepeatTest.nullInput" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringRepeatTest_nullInput - 2019.07.21 at 12h 55m 40s.xml">
+      <configuration name="StringRepeatTest.nullInput" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortingTheNumberTest_givenTheInputIsSortedInNonIncreasingOrder - 2019.07.21 at 12h 56m 14s.xml">
+      <configuration name="SortingTheNumberTest.givenTheInputIsSortedInNonIncreasingOrder" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortingTheNumberTest_givenTheInputIsSortedInNonIncreasingOrder - 2019.07.21 at 13h 00m 02s.xml">
+      <configuration name="SortingTheNumberTest.givenTheInputIsSortedInNonIncreasingOrder" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="70" y="27" width="1296" height="741" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2536" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.3294893" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3305785" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3305785" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3970346" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -299,6 +371,8 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.30807248" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3289256" />
+      <window_info anchor="bottom" id="SonarLint" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -309,24 +383,25 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2536" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2664" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="0" />
-      <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.3294893" />
-      <window_info active="true" anchor="bottom" id="Debug" order="4" visible="true" weight="0.39868203" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.30807248" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3305785" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3970346" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.30807248" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3289256" />
+      <window_info anchor="bottom" id="SonarLint" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -338,31 +413,68 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Main/Java/EvenOdd.java">
+    <entry file="file://$PROJECT_DIR$/src/Main/Java/EvenOdd.java" />
+    <entry file="file://$PROJECT_DIR$/src/Main/Java/com/stackroute/IntegerArgument.java" />
+    <entry file="file://$PROJECT_DIR$/src/Main/Java/com/stackroute/pe1/JavaDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        <state relative-caret-position="315">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main/Java/com/stackroute/Excercise.java">
+    <entry file="file://$PROJECT_DIR$/src/Test/Java/com/stackroute/pe1/JavaDemoTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        <state relative-caret-position="15">
+          <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main/Java/com/stackroute/EvenOdd.java">
+    <entry file="file://$PROJECT_DIR$/src/Main/Java/com/stackroute/pe1/EvenOdd.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main/Java/com/stackroute/Iteration.java">
+    <entry file="file://$PROJECT_DIR$/src/Test/Java/com/stackroute/pe1/EvenOddTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        <state relative-caret-position="308">
+          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/Java/com/stackroute/pe1/ReverseStringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/Java/com/stackroute/pe1/VowelConsonentTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main/Java/com/stackroute/pe1/VowelConsonent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -373,33 +485,187 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main/Java/com/stackroute/IntegerArgument.java">
+    <entry file="file://$PROJECT_DIR$/src/Test/Java/com/stackroute/pe1/CharacterTypeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        <state relative-caret-position="465">
+          <caret line="33" selection-start-line="26" selection-start-column="8" selection-end-line="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main/Java/com/stackroute/VowelConsonent.java">
+    <entry file="file://$PROJECT_DIR$/src/Main/Java/com/stackroute/pe1/ReverseString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="195">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main/Java/com/stackroute/CharacterType.java">
+    <entry file="file://$PROJECT_DIR$/src/Test/Java/com/stackroute/pe1/GuessingTheNumberTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="53" lean-forward="true" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
+        <state relative-caret-position="130">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main/Java/com/stackroute/ReverseString.java">
+    <entry file="file://$PROJECT_DIR$/src/Main/Java/com/stackroute/pe1/GuessingTheNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        <state relative-caret-position="270">
+          <caret line="18" column="53" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main/Java/com/stackroute/pe1/Excercise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main/Java/com/stackroute/pe1/Iteration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/Java/com/stackroute/pe1/PalindromeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main/Java/com/stackroute/pe1/Palindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main/Java/com/stackroute/pe1/CharacterType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main/Java/com/stackroute/pe1/Pattern.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/Java/com/stackroute/pe1/PatternTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main/Java/com/stackroute/pe1/StringRepeat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/Java/com/stackroute/pe1/StringRepeatTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="42" column="60" selection-start-line="42" selection-start-column="60" selection-end-line="42" selection-end-column="60" />
+          <folding>
+            <element signature="e#904#905#0" expanded="true" />
+            <element signature="e#981#982#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/Java/com/stackroute/pe1/SortingTheNumberTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="28" column="69" selection-start-line="28" selection-start-column="69" selection-end-line="28" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main/Java/com/stackroute/pe1/SortingTheNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="38" column="12" lean-forward="true" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>junit-4.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>HelloWorld</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

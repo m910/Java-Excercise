@@ -1,0 +1,12 @@
+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ã€Êçşÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(û»ªŒ
+Osquid:S1481"3Remove this unused "expectedOutput" local variable.( ˜ÿöıÿÿÿÿ
+Isquid:S1481&"3Remove this unused "expectedOutput" local variable.(É°A
+Jsquid:S14810"3Remove this unused "expectedOutput" local variable.(¥¡¨é
+^squid:S1854"BRemove this useless assignment to local variable "expectedOutput".( ˜ÿöıÿÿÿÿ
+Xsquid:S1854&"BRemove this useless assignment to local variable "expectedOutput".(É°A
+Ysquid:S18540"BRemove this useless assignment to local variable "expectedOutput".(¥¡¨é
+zsquid:UselessImportCheck"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ãø©Æşÿÿÿÿ

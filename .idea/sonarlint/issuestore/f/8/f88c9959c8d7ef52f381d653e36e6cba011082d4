@@ -1,0 +1,5 @@
+
+Isquid:S1199"-Extract this nested code block into a method.(è×…úÿÿÿÿ
+Bsquid:S1481"+Remove this unused "result" local variable.(ìş“
+Hsquid:S1481",Remove this unused "results" local variable.(è×…úÿÿÿÿ
+Wsquid:UselessImportCheck".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ
