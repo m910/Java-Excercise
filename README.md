@@ -7,6 +7,8 @@
 7.GuessingTheNumber Is done.
 8.Sorting the number based on non-increasing order is done.
 9.Repeating a string based on input is done.
+10.Adding of the inegers of the array is done.
+
 
 
 
